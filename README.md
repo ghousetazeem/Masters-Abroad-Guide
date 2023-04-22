@@ -1,5 +1,5 @@
-<h1 align="center" id="title">Masters Abroad</h1>
-<h2> All at one place </h2>
+<h1 align="center" id="title">✈️ Masters Abroad</h1>
+<h2 align="center"> All at one place </h2>
 
 <p align="center"><img src="https://media.licdn.com/dms/image/C4D12AQHg-XkT7d2bCg/article-cover_image-shrink_600_2000/0/1633769482614?e=2147483647&amp;v=beta&amp;t=HyurKUHzF_sX-ojF2uKxaGU6Sl5QhF2j2N3cLjIol0Y" alt="project-image"></p>
 
