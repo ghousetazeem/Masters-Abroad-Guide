@@ -1,6 +1,6 @@
 <h1 align="center" id="title">✈️ Masters Abroad (All at one place) </h1>
 
-<p align="center"><img src="https://media.licdn.com/dms/image/C4D12AQHg-XkT7d2bCg/article-cover_image-shrink_600_2000/0/1633769482614?e=2147483647&amp;v=beta&amp;t=HyurKUHzF_sX-ojF2uKxaGU6Sl5QhF2j2N3cLjIol0Y" alt="project-image"></p>
+<p align="center"><img src="https://www.edwiseinternational.com/images/%E2%80%8BStudy-Abroad-Consultants-25-Feb-2019.jpg"></p>
 
 <p id="description">This repository is a valuable and complete guide for those who want to pursue higher education abroad. It contains a wide range of resources and materials that provide a detailed understanding of how things work in the pursuit of higher studies overseas. These are some of the essential things for anyone who wants to gain a thorough understanding of the complexities involved in this process.</p>
 
@@ -51,8 +51,25 @@
 <h3>Note: The repository folders have a collection of books for GRE and IELTS, which will be sufficient to prepare for your exams. 👆 </h3>
 
 
-<h1> LORS and SOP</h1>
+<h1>📋 LORS and SOP</h1>
 
+<h2>📃 Letter of Recommendation</h2>
+ <p> A Letter of Recommendation (LoR) is a document that assesses an individual's abilities, qualities, and potential, typically written by a person who has had significant professional or academic interactions with the individual. LoRs are commonly required as part of the application process for higher education, scholarships, internships, and job positions.</p>
+   
+ <h4>
+  
+  [All about LOR(video)](https://tailgrids.com/) 
+
+</h4>
+ <br>
+ <h2>📜 Statement of Purpose</h2>
+ <p> A Statement of Purpose (SOP) is a personal essay that outlines an applicant's academic and professional goals, experience, and achievements. SOPs are commonly required as part of the application process for higher education, particularly for graduate programs.</p>
+ 
+ <h4> 
+  
+  [All about SOP(video)](https://tailgrids.com/) 
+
+</h4>
 
 <h1> Applying to universities</h1>
 
