@@ -1,4 +1,4 @@
-<h1 align="center" id="title"> ✈️ Masters Abroad (All at one place) </h1>
+<h1 align="center" id="title">✈️ Masters Abroad (All at one place) </h1>
 
 <p align="center"><img src="https://www.edwiseinternational.com/images/%E2%80%8BStudy-Abroad-Consultants-25-Feb-2019.jpg"></p>
 
