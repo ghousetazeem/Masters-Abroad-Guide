@@ -35,6 +35,7 @@
 - LORS and SOP
 - Transcripts
 - Applying to universities
+- Visa
 </h2>
 
 <h1> 📝 Exams</h1>
@@ -84,13 +85,16 @@
 
 </h3>
 
-<h2>The best advice to all is make sure your documents like Aadhar, Passport etc should be ready before hand. Keep it ready by the month of June atleast to not come under any problem</h2>
+<h1>🖱️ Important Advice</h1>
 
+<h3>
 
+- The best advice for everyone is to ensure that your important documents, such as Aadhar, Passport, etc., are ready well in advance. It is recommended to have them prepared by at least the month of June to avoid any issues.
+- If you are planning to enroll for the fall intake in 2024, it is recommended that you begin preparing for the exams now.
+- Do visit the website YMGrad.com👆 and start the process of shortlisting universities now.
+</h3>
 
-
-
-
+<h2> More books for GRE and IELTS is going to be added soon</h2>
 
 
 <h2>🍰 Contribution Guidelines:</h2>
