@@ -35,7 +35,6 @@
 - LORS and SOP
 - Transcripts
 - Applying to universities
-- Visa
 </h2>
 
 <h1> 📝 Exams</h1>
@@ -71,10 +70,21 @@
 
 </h4>
 
-<h1> Applying to universities</h1>
+<h1>🎲 Applying to universities</h1>
 
+<p> The three intakes available in the US are: Fall: Starts in August/September. Spring: Starts in January; it's best for you if you miss the September/Fall intake. Summer: Available for limited programs and colleges, the Summer intake usually starts around May.</p>
 
+<h3>The best intake if you want to do masters immediate after graduation is Fall(August or September) intake</h3>
+<h4> For Fall intake you should be ticking this list of things:
 
+- Writing GRE and IELTS in the month of september 2023 if you want to go for August/Septemer intake 2024
+- Then applying to universities and finsihing it in the month of december(for best opportunities like scholarship, good universities etc.)
+- All the admits and reject will come by the month of April
+- Then start the application for visa process as soon as you get your i20
+
+</h3>
+
+<h2>The best advice to all is make sure your documents like Aadhar, Passport etc should be ready before hand. Keep it ready by the month of June atleast to not come under any problem</h2>
 
 
 
