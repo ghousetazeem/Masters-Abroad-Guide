@@ -45,8 +45,8 @@
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | The GRE (Graduate Record Examination) is a standardized test that is often required for admission into graduate and business schools in the United States and other countries.| The IELTS (International English Language Testing System) is a exam that is commonly used to assess English language proficiency for non-native speakers who wish to study or work in English-speaking countries. |
 |  The test measures verbal reasoning, quantitative reasoning, analytical writing, and critical thinking skills.|  The exam consists of four sections: listening, reading, writing, and speaking. |
-| [All about GRE(video)](https://tailgrids.com/)      | [All about IELTS(video)](https://tailgrids.com/)                                      |
-| [Prepeartion Strategy(video)](https://tailgrids.com/)      | [Preperation Strategy(video)](https://tailgrids.com/)                                      |
+| [All about GRE(video)](https://youtu.be/_Ob8-1WBXzM)     | [All about IELTS(video)](https://youtu.be/bU-0wIErEwg)                                      |
+| [Prepeartion Strategy(video)](https://youtu.be/9JWaFOQ5azU)      | [Preperation Strategy(video)](https://youtu.be/QS4LK13AV-c)                                      |
 
 <h3>Note: The repository folders have a collection of books for GRE and IELTS, which will be sufficient to prepare for your exams. 👆 </h3>
 
@@ -58,7 +58,7 @@
    
  <h4>
   
-  [All about LOR(video)](https://tailgrids.com/) 
+  [All about LOR(video)](https://youtu.be/lajqEVRe9LU) 
 
 </h4>
  <br>
@@ -67,7 +67,7 @@
  
  <h4> 
   
-  [All about SOP(video)](https://tailgrids.com/) 
+  [All about SOP(video)](https://youtu.be/Vc3CQN0IlGs) 
 
 </h4>
 
