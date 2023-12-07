@@ -29,7 +29,7 @@
     </h4>
   <h3>
 
-  - [GradrightSelect]([https://ymgrad.com/](https://select.gradright.com/shortListingUniversities/priorities?fbclid=PAAaYS_OVFz-jnf163gJh6UoLMW_cGEz8lfzHUF2UmWBaPpmqNCfSgWYtVoXQ_aem_AU4b1o8-p7b_AFGgK2P36Jzkyk6r8K0QULXG940LEIYQNNhIIyr8yPlRIOCptgpzBs9dCy-urLxlfNO619Im1muX))
+  - [GradrightSelect](https://select.gradright.com/home)
   </h3>
 </h1>
 
@@ -42,6 +42,8 @@
 - LORS and SOP
 - Transcripts
 - Applying to universities
+- Selecting Final University
+- I20
 - Visa
 </h2>
 
@@ -91,6 +93,95 @@
 - Then start the application for visa process as soon as you get your i20
 
 </h3>
+
+<h1>🏁 Selecting Final University</h1>
+
+1. **Location**
+    - Consider where the university is located—think about the weather, living costs, and how far it is from home.
+
+2. **Academic Programs**
+    - Check if the university offers the right courses for your interests and career goals.
+
+3. **Accreditation**
+    - Make sure the university is officially recognized for maintaining academic standards.
+
+4. **Cost and Financial Aid**
+    - Compare the total expenses, including tuition and living costs, and check for available financial aid.
+
+5. **Reputation**
+    - Look into the overall reputation of the university and its ranking in your field of study.
+
+6. **Internship and Job Placement Opportunities**
+    - Check the university's success in placing graduates in jobs and internships.
+
+7. **Campus Facilities**
+    - Check the quality of facilities like libraries, labs, and recreational areas.
+
+8. **Class Size and Student-to-Faculty Ratio**
+    - Consider smaller classes and lower student-to-faculty ratios for more personal attention.
+
+9. **Diversity and Campus Culture**
+    - Consider the diversity of students and the overall campus culture.
+
+10. **Extracurricular Activities**
+    - Look at available clubs and activities that align with your interests.
+
+11. **Alumni Network**
+    - Consider the strength of the alumni network for future connections.
+
+<h1>🔰 I20</h1>
+
+1. **Receive Form I-20:**
+   - Obtain Form I-20 from the U.S. school after acceptance.
+
+2. **Provide Required Documentation:**
+   - Submit additional requested documents, such as proof of funds.
+
+3. **Pay SEVIS Fee:**
+   - Pay the SEVIS fee to support the student tracking system.
+
+4. **Complete Form I-20:**
+   - Review and confirm the information on Form I-20.
+
+
+<h1>🎫 Visa</h1>
+
+1. **Receive I-20 or DS-2019:**
+   - Obtain the form from your U.S. school upon acceptance.
+
+2. **Pay SEVIS Fee:**
+   - Pay a fee to support the system that tracks students.
+
+3. **Complete DS-160 Form:**
+   - Fill out an online visa application form.
+
+4. **Pay Visa Application Fee:**
+   - Submit a non-refundable visa application fee.
+
+5. **Schedule Visa Interview:**
+   - Book an appointment for a visa interview at the U.S. embassy or consulate.
+
+6. **Prepare Documents:**
+   - Collect necessary documents like passport, visa application confirmation, I-20 or DS-2019, SEVIS fee receipt, transcripts, test scores, and financial proof.
+
+7. **Attend Visa Interview:**
+   - Attend the interview and discuss your plans and financial situation.
+
+8. **Receive Visa Decision:**
+   - Learn the decision at the end of the interview. If approved, you get a visa stamp.
+
+9. **Travel to the U.S.:**
+   - Use the visa to travel to the U.S.
+
+10. **Attend Port of Entry:**
+    - Show your documents to enter the U.S. at the airport.
+
+11. **Report to School Official:**
+    - Inform your school official about your arrival within a few days.
+
+  Check specific requirements at your local U.S. embassy or consulate, and stay updated on any changes to the process.
+
+
 
 <h1>🖱️ Important Advice</h1>
 
