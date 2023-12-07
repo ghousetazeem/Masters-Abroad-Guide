@@ -57,7 +57,7 @@
 | [All about GRE(video)](https://youtu.be/_Ob8-1WBXzM)     | [All about IELTS(video)](https://youtu.be/bU-0wIErEwg)                                      |
 | [Prepeartion Strategy(video)](https://youtu.be/9JWaFOQ5azU)      | [Preperation Strategy(video)](https://youtu.be/QS4LK13AV-c)                                      |
 
-<h3>Note: The repository folders have a collection of books for GRE and IELTS, which will be sufficient to prepare for your exams. 👆 </h3>
+<h3>Note: The repository folders have a collection of books for GRE and IELTS, which will be sufficient to prepare for your exams 👆. The best for GRE is GRE Official Guide and the best book for IELTS is Official Cambridge Guide. But you can figure out which one you like the most </h3>
 
 
 <h1>📋 LORS and SOP</h1>
@@ -145,6 +145,8 @@
 
 
 <h1>🎫 Visa</h1>
+
+<h3> I have compiled several PDF documents in the "visa" folder 👆 that provide insights into visa interview questions and the likelihood of visa approval based on the chosen university. Feel free to review these documents for valuable information. </h3>
 
 1. **Receive I-20 or DS-2019:**
    - Obtain the form from your U.S. school upon acceptance.
