@@ -38,6 +38,13 @@
 
   - [Abroadly](https://abroadlyai.com/)
   </h3>
+  <h4>
+  If you plan to contact professors before applying (common for research-based MS and PhD programs), this website lets you search professors by research field, university, and country. Browsing is free; full profiles and emails need a paid plan.
+    </h4>
+  <h3>
+
+  - [ProfScout](https://profscout.com/)
+  </h3>
 </h1>
 
 
